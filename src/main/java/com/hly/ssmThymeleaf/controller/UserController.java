@@ -1,8 +1,8 @@
-package com.hly.sirius.controller;
+package com.hly.ssmThymeleaf.controller;
 
 
-import com.hly.sirius.entity.User;
-import com.hly.sirius.util.CryptographyUtil;
+import com.hly.ssmThymeleaf.entity.User;
+import com.hly.ssmThymeleaf.util.CryptographyUtil;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.AuthenticationException;
 import org.apache.shiro.authc.UsernamePasswordToken;

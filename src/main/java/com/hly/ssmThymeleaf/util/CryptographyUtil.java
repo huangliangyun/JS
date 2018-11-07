@@ -1,4 +1,4 @@
-package com.hly.sirius.util;
+package com.hly.ssmThymeleaf.util;
 
 import org.apache.shiro.crypto.hash.Md5Hash;
 

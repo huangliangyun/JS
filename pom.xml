@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hly.sirius</groupId>
-    <artifactId>Sirius</artifactId>
+    <artifactId>SSM-Thymeleaf</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>Sirius Maven Webapp</name>
+    <name>SSM-Thymeleaf</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 

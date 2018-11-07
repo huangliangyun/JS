@@ -1,8 +1,8 @@
-package com.hly.sirius.realm;
+package com.hly.ssmThymeleaf.realm;
 
 
-import com.hly.sirius.entity.User;
-import com.hly.sirius.service.UserService;
+import com.hly.ssmThymeleaf.entity.User;
+import com.hly.ssmThymeleaf.service.UserService;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.AuthenticationException;
 import org.apache.shiro.authc.AuthenticationInfo;

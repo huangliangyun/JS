@@ -1,9 +1,9 @@
-package com.hly.sirius.service.Impl;
+package com.hly.ssmThymeleaf.service.Impl;
 
 
-import com.hly.sirius.dao.UserDao;
-import com.hly.sirius.entity.User;
-import com.hly.sirius.service.UserService;
+import com.hly.ssmThymeleaf.dao.UserDao;
+import com.hly.ssmThymeleaf.entity.User;
+import com.hly.ssmThymeleaf.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.hly.sirius.entity;
+package com.hly.ssmThymeleaf.entity;
 
 /**
  * @author :hly

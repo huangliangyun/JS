@@ -1,7 +1,7 @@
-package com.hly.sirius.service;
+package com.hly.ssmThymeleaf.dao;
 
 
-import com.hly.sirius.entity.User;
+import com.hly.ssmThymeleaf.entity.User;
 
 /**
  * @author :hly
@@ -9,8 +9,7 @@ import com.hly.sirius.entity.User;
  * @blog :blog.csdn.net/Sirius_hly
  * @date :2018/8/30
  */
-
-public interface UserService {
+public interface UserDao {
 
     /**
      * 查询用户
@@ -18,6 +17,5 @@ public interface UserService {
      * @return
      */
     public User getUserById(String userId);
-
 
 }
