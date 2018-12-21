@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Sirius" />
         <module name="SSM-Thymelaef" />
+        <module name="SSM-Thymeleaf" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Sirius" target="1.7" />
       <module name="SSM-Thymelaef" target="1.7" />
+      <module name="SSM-Thymeleaf" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
