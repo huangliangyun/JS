@@ -6,15 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Sirius" />
-        <module name="SSM-Thymelaef" />
-        <module name="SSM-Thymeleaf" />
+        <module name="JS" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Sirius" target="1.7" />
-      <module name="SSM-Thymelaef" target="1.7" />
-      <module name="SSM-Thymeleaf" target="1.7" />
+      <module name="JS" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
